@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>resource/八边形_octagon.svg</file>
+        <file>resource/矩形_rectangle.svg</file>
+        <file>resource/平行四边形_parallelogram.svg</file>
+        <file>resource/三角形_triangle.svg</file>
+        <file>resource/上传3_upload-three.svg</file>
+        <file>resource/椭圆形_oval-one.svg</file>
+        <file>resource/圆形_round.svg</file>
+    </qresource>
+</RCC>

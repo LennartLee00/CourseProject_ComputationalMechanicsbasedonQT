@@ -1,0 +1,27 @@
+# ninja log v5
+2	288	7016875785298317	trueCM_QT_autogen/timestamp	983d3e475b3555f8
+2	288	7016875785298317	trueCM_QT_autogen/mocs_compilation.cpp	983d3e475b3555f8
+2	288	7016875785298317	E:/SoftwareProfessional/Code/GitCode/trueCM/CourseProject_ComputationalMechanicsbasedonQT/build-trueCM_QT-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/trueCM_QT_autogen/timestamp	983d3e475b3555f8
+2	288	7016875785298317	E:/SoftwareProfessional/Code/GitCode/trueCM/CourseProject_ComputationalMechanicsbasedonQT/build-trueCM_QT-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/trueCM_QT_autogen/mocs_compilation.cpp	983d3e475b3555f8
+289	1876	7016875801963356	CMakeFiles/trueCM_QT.dir/trueCM_QT_autogen/mocs_compilation.cpp.obj	cf2b0579d4144442
+294	1879	7016875801963356	CMakeFiles/trueCM_QT.dir/main.cpp.obj	aadef9db96e3135c
+292	1926	7016875802464630	CMakeFiles/trueCM_QT.dir/widget.cpp.obj	4f27a6f9c0b698b1
+1926	2480	7016875807794311	trueCM_QT.exe	b66aecc66cda933f
+9	237	7016876644094029	trueCM_QT_autogen/timestamp	983d3e475b3555f8
+9	237	7016876644094029	trueCM_QT_autogen/mocs_compilation.cpp	983d3e475b3555f8
+9	237	7016876644094029	E:/SoftwareProfessional/Code/GitCode/trueCM/CourseProject_ComputationalMechanicsbasedonQT/build-trueCM_QT-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/trueCM_QT_autogen/timestamp	983d3e475b3555f8
+9	237	7016876644094029	E:/SoftwareProfessional/Code/GitCode/trueCM/CourseProject_ComputationalMechanicsbasedonQT/build-trueCM_QT-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/trueCM_QT_autogen/mocs_compilation.cpp	983d3e475b3555f8
+240	1887	7016876660563430	CMakeFiles/trueCM_QT.dir/widget.cpp.obj	4f27a6f9c0b698b1
+1887	2061	7016876661934397	trueCM_QT.exe	b66aecc66cda933f
+9	239	7016880995518409	trueCM_QT_autogen/timestamp	983d3e475b3555f8
+9	239	7016880995518409	trueCM_QT_autogen/mocs_compilation.cpp	983d3e475b3555f8
+9	239	7016880995518409	E:/SoftwareProfessional/Code/GitCode/trueCM/CourseProject_ComputationalMechanicsbasedonQT/build-trueCM_QT-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/trueCM_QT_autogen/timestamp	983d3e475b3555f8
+9	239	7016880995518409	E:/SoftwareProfessional/Code/GitCode/trueCM/CourseProject_ComputationalMechanicsbasedonQT/build-trueCM_QT-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/trueCM_QT_autogen/mocs_compilation.cpp	983d3e475b3555f8
+242	1889	7016881011987873	CMakeFiles/trueCM_QT.dir/widget.cpp.obj	4f27a6f9c0b698b1
+1889	2069	7016881013405143	trueCM_QT.exe	b66aecc66cda933f
+3	220	7016881357784067	trueCM_QT_autogen/timestamp	983d3e475b3555f8
+3	220	7016881357784067	trueCM_QT_autogen/mocs_compilation.cpp	983d3e475b3555f8
+3	220	7016881357784067	E:/SoftwareProfessional/Code/GitCode/trueCM/CourseProject_ComputationalMechanicsbasedonQT/build-trueCM_QT-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/trueCM_QT_autogen/timestamp	983d3e475b3555f8
+3	220	7016881357784067	E:/SoftwareProfessional/Code/GitCode/trueCM/CourseProject_ComputationalMechanicsbasedonQT/build-trueCM_QT-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/trueCM_QT_autogen/mocs_compilation.cpp	983d3e475b3555f8
+223	1801	7016881373568027	CMakeFiles/trueCM_QT.dir/widget.cpp.obj	4f27a6f9c0b698b1
+1801	1973	7016881374927646	trueCM_QT.exe	b66aecc66cda933f
