@@ -2,7 +2,7 @@
 #define WIDGET_H
 
 #include <QWidget>
-
+#include <QGraphicsView>
 QT_BEGIN_NAMESPACE
 namespace Ui { class Widget; }
 QT_END_NAMESPACE
@@ -17,5 +17,7 @@ public:
 
 private:
     Ui::Widget *ui;
+    // 在堆上创建一个场景
+    QGraphicsScene *scene ;
 };
 #endif // WIDGET_H
