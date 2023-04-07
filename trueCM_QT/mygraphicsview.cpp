@@ -13,7 +13,7 @@ void MyGraphicsView::mousePressEvent(QMouseEvent *event)
 {
     if (event->button() == Qt::LeftButton) {
         m_isDrawing = true;
-        m_startPos = event->pos()+QPoint(180,10);
+        m_startPos = event->pos()+QPoint(283,1);
         m_rectItem = new QGraphicsRectItem;
         scene()->addItem(m_rectItem);
     }
@@ -22,7 +22,7 @@ void MyGraphicsView::mousePressEvent(QMouseEvent *event)
 void MyGraphicsView::mouseMoveEvent(QMouseEvent *event)
 {
     if (m_isDrawing) {
-        QRectF rect(m_startPos, event->pos()+QPoint(180,10));
+        QRectF rect(m_startPos, event->pos()+QPoint(283,1));
          m_rectItem->setRect(rect.normalized());
     }
 }

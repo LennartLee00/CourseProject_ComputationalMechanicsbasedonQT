@@ -2,11 +2,17 @@ trueCM_QT_autogen/timestamp: \
 	E:/SoftwareProfessional/Code/GitCode/trueCM/CourseProject_ComputationalMechanicsbasedonQT/build-trueCM_QT-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/CMakeFiles/3.24.2/CMakeCXXCompiler.cmake \
 	E:/SoftwareProfessional/Code/GitCode/trueCM/CourseProject_ComputationalMechanicsbasedonQT/build-trueCM_QT-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/CMakeFiles/3.24.2/CMakeRCCompiler.cmake \
 	E:/SoftwareProfessional/Code/GitCode/trueCM/CourseProject_ComputationalMechanicsbasedonQT/build-trueCM_QT-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/CMakeFiles/3.24.2/CMakeSystem.cmake \
-	E:/SoftwareProfessional/Code/GitCode/trueCM/CourseProject_ComputationalMechanicsbasedonQT/build-trueCM_QT-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/CMakeFiles/CheckLibraryExists/CheckFunctionExists.cxx \
 	E:/SoftwareProfessional/Code/GitCode/trueCM/CourseProject_ComputationalMechanicsbasedonQT/trueCM_QT/CMakeLists.txt \
 	E:/SoftwareProfessional/Code/GitCode/trueCM/CourseProject_ComputationalMechanicsbasedonQT/trueCM_QT/main.cpp \
+	E:/SoftwareProfessional/Code/GitCode/trueCM/CourseProject_ComputationalMechanicsbasedonQT/trueCM_QT/mygraphicsview.cpp \
+	E:/SoftwareProfessional/Code/GitCode/trueCM/CourseProject_ComputationalMechanicsbasedonQT/trueCM_QT/mygraphicsview.h \
 	E:/SoftwareProfessional/Code/GitCode/trueCM/CourseProject_ComputationalMechanicsbasedonQT/trueCM_QT/widget.cpp \
 	E:/SoftwareProfessional/Code/GitCode/trueCM/CourseProject_ComputationalMechanicsbasedonQT/trueCM_QT/widget.h \
+	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/QList \
+	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/QObject \
+	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/QRect \
+	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/QSize \
+	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/QSizeF \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qalgorithms.h \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qanystringview.h \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qarraydata.h \
@@ -28,6 +34,7 @@ trueCM_QT_autogen/timestamp: \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qcontainerinfo.h \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qcontainertools_impl.h \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qcontiguouscache.h \
+	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qcoreevent.h \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qdatastream.h \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qdebug.h \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qflags.h \
@@ -36,6 +43,7 @@ trueCM_QT_autogen/timestamp: \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qglobalstatic.h \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qhash.h \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qhashfunctions.h \
+	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qiodevice.h \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qiodevicebase.h \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qiterable.h \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qiterator.h \
@@ -48,6 +56,7 @@ trueCM_QT_autogen/timestamp: \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qmetacontainer.h \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qmetatype.h \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qnamespace.h \
+	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qnativeinterface.h \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qnumeric.h \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qobject.h \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qobject_impl.h \
@@ -55,6 +64,7 @@ trueCM_QT_autogen/timestamp: \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qobjectdefs_impl.h \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qpair.h \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qpoint.h \
+	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qpointer.h \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qprocessordetection.h \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qrect.h \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qrefcount.h \
@@ -84,36 +94,58 @@ trueCM_QT_autogen/timestamp: \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qtextstream.h \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qtmetamacros.h \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qtypeinfo.h \
+	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qurl.h \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qutf8stringview.h \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qvariant.h \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qvarlengtharray.h \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qversiontagging.h \
+	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/QMouseEvent \
+	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/QTransform \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qaction.h \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qbitmap.h \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qbrush.h \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qcolor.h \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qcursor.h \
+	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qevent.h \
+	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qeventpoint.h \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qfont.h \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qfontinfo.h \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qfontmetrics.h \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qicon.h \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qimage.h \
+	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qinputdevice.h \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qkeysequence.h \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qpaintdevice.h \
+	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qpainter.h \
+	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qpainterpath.h \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qpalette.h \
+	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qpen.h \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qpixelformat.h \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qpixmap.h \
+	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qpointingdevice.h \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qpolygon.h \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qregion.h \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qrgb.h \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qrgba64.h \
+	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qscreen.h \
+	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qtextoption.h \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qtgui-config.h \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qtguiexports.h \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qtguiglobal.h \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qtransform.h \
+	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qvector2d.h \
+	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qvectornd.h \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qwindowdefs.h \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qwindowdefs_win.h \
+	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtWidgets/QGraphicsRectItem \
+	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtWidgets/QGraphicsView \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtWidgets/QWidget \
+	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtWidgets/qabstractscrollarea.h \
+	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtWidgets/qframe.h \
+	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtWidgets/qgraphicsitem.h \
+	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtWidgets/qgraphicsscene.h \
+	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtWidgets/qgraphicsview.h \
+	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtWidgets/qscrollarea.h \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtWidgets/qsizepolicy.h \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtWidgets/qtwidgets-config.h \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtWidgets/qtwidgetsexports.h \
@@ -269,80 +301,23 @@ trueCM_QT_autogen/timestamp: \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/lib/cmake/Qt6ZlibPrivate/Qt6ZlibPrivateConfigVersionImpl.cmake \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/lib/cmake/Qt6ZlibPrivate/Qt6ZlibPrivateTargets.cmake \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/lib/cmake/Qt6ZlibPrivate/Qt6ZlibPrivateVersionlessTargets.cmake \
-	E:/SoftwareProfessional/Qt/Tools/CMake_64/share/cmake-3.24/Modules/CMakeCXXCompiler.cmake.in \
-	E:/SoftwareProfessional/Qt/Tools/CMake_64/share/cmake-3.24/Modules/CMakeCXXCompilerABI.cpp \
 	E:/SoftwareProfessional/Qt/Tools/CMake_64/share/cmake-3.24/Modules/CMakeCXXInformation.cmake \
 	E:/SoftwareProfessional/Qt/Tools/CMake_64/share/cmake-3.24/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake \
 	E:/SoftwareProfessional/Qt/Tools/CMake_64/share/cmake-3.24/Modules/CMakeCommonLanguageInclude.cmake \
-	E:/SoftwareProfessional/Qt/Tools/CMake_64/share/cmake-3.24/Modules/CMakeCompilerIdDetection.cmake \
-	E:/SoftwareProfessional/Qt/Tools/CMake_64/share/cmake-3.24/Modules/CMakeDetermineCXXCompiler.cmake \
-	E:/SoftwareProfessional/Qt/Tools/CMake_64/share/cmake-3.24/Modules/CMakeDetermineCompileFeatures.cmake \
-	E:/SoftwareProfessional/Qt/Tools/CMake_64/share/cmake-3.24/Modules/CMakeDetermineCompiler.cmake \
-	E:/SoftwareProfessional/Qt/Tools/CMake_64/share/cmake-3.24/Modules/CMakeDetermineCompilerABI.cmake \
-	E:/SoftwareProfessional/Qt/Tools/CMake_64/share/cmake-3.24/Modules/CMakeDetermineCompilerId.cmake \
-	E:/SoftwareProfessional/Qt/Tools/CMake_64/share/cmake-3.24/Modules/CMakeDetermineRCCompiler.cmake \
-	E:/SoftwareProfessional/Qt/Tools/CMake_64/share/cmake-3.24/Modules/CMakeDetermineSystem.cmake \
-	E:/SoftwareProfessional/Qt/Tools/CMake_64/share/cmake-3.24/Modules/CMakeFindBinUtils.cmake \
 	E:/SoftwareProfessional/Qt/Tools/CMake_64/share/cmake-3.24/Modules/CMakeFindDependencyMacro.cmake \
 	E:/SoftwareProfessional/Qt/Tools/CMake_64/share/cmake-3.24/Modules/CMakeGenericSystem.cmake \
 	E:/SoftwareProfessional/Qt/Tools/CMake_64/share/cmake-3.24/Modules/CMakeInitializeConfigs.cmake \
 	E:/SoftwareProfessional/Qt/Tools/CMake_64/share/cmake-3.24/Modules/CMakeLanguageInformation.cmake \
-	E:/SoftwareProfessional/Qt/Tools/CMake_64/share/cmake-3.24/Modules/CMakeNinjaFindMake.cmake \
-	E:/SoftwareProfessional/Qt/Tools/CMake_64/share/cmake-3.24/Modules/CMakeParseImplicitIncludeInfo.cmake \
-	E:/SoftwareProfessional/Qt/Tools/CMake_64/share/cmake-3.24/Modules/CMakeParseImplicitLinkInfo.cmake \
-	E:/SoftwareProfessional/Qt/Tools/CMake_64/share/cmake-3.24/Modules/CMakeParseLibraryArchitecture.cmake \
-	E:/SoftwareProfessional/Qt/Tools/CMake_64/share/cmake-3.24/Modules/CMakeRCCompiler.cmake.in \
 	E:/SoftwareProfessional/Qt/Tools/CMake_64/share/cmake-3.24/Modules/CMakeRCInformation.cmake \
-	E:/SoftwareProfessional/Qt/Tools/CMake_64/share/cmake-3.24/Modules/CMakeSystem.cmake.in \
 	E:/SoftwareProfessional/Qt/Tools/CMake_64/share/cmake-3.24/Modules/CMakeSystemSpecificInformation.cmake \
 	E:/SoftwareProfessional/Qt/Tools/CMake_64/share/cmake-3.24/Modules/CMakeSystemSpecificInitialize.cmake \
-	E:/SoftwareProfessional/Qt/Tools/CMake_64/share/cmake-3.24/Modules/CMakeTestCXXCompiler.cmake \
-	E:/SoftwareProfessional/Qt/Tools/CMake_64/share/cmake-3.24/Modules/CMakeTestCompilerCommon.cmake \
-	E:/SoftwareProfessional/Qt/Tools/CMake_64/share/cmake-3.24/Modules/CMakeTestRCCompiler.cmake \
 	E:/SoftwareProfessional/Qt/Tools/CMake_64/share/cmake-3.24/Modules/CheckCXXCompilerFlag.cmake \
 	E:/SoftwareProfessional/Qt/Tools/CMake_64/share/cmake-3.24/Modules/CheckCXXSourceCompiles.cmake \
-	E:/SoftwareProfessional/Qt/Tools/CMake_64/share/cmake-3.24/Modules/CheckFunctionExists.c \
 	E:/SoftwareProfessional/Qt/Tools/CMake_64/share/cmake-3.24/Modules/CheckIncludeFileCXX.cmake \
 	E:/SoftwareProfessional/Qt/Tools/CMake_64/share/cmake-3.24/Modules/CheckLibraryExists.cmake \
-	E:/SoftwareProfessional/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Compiler/ADSP-DetermineCompiler.cmake \
-	E:/SoftwareProfessional/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Compiler/ARMCC-DetermineCompiler.cmake \
-	E:/SoftwareProfessional/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Compiler/ARMClang-DetermineCompiler.cmake \
-	E:/SoftwareProfessional/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Compiler/AppleClang-DetermineCompiler.cmake \
-	E:/SoftwareProfessional/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Compiler/Borland-DetermineCompiler.cmake \
 	E:/SoftwareProfessional/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Compiler/CMakeCommonCompilerMacros.cmake \
-	E:/SoftwareProfessional/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Compiler/Clang-DetermineCompiler.cmake \
-	E:/SoftwareProfessional/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Compiler/Clang-DetermineCompilerInternal.cmake \
-	E:/SoftwareProfessional/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Compiler/Comeau-CXX-DetermineCompiler.cmake \
-	E:/SoftwareProfessional/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake \
-	E:/SoftwareProfessional/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Compiler/Cray-DetermineCompiler.cmake \
-	E:/SoftwareProfessional/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Compiler/Embarcadero-DetermineCompiler.cmake \
-	E:/SoftwareProfessional/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Compiler/Fujitsu-DetermineCompiler.cmake \
-	E:/SoftwareProfessional/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake \
-	E:/SoftwareProfessional/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Compiler/GHS-DetermineCompiler.cmake \
-	E:/SoftwareProfessional/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake \
-	E:/SoftwareProfessional/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Compiler/HP-CXX-DetermineCompiler.cmake \
-	E:/SoftwareProfessional/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Compiler/IAR-DetermineCompiler.cmake \
-	E:/SoftwareProfessional/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake \
-	E:/SoftwareProfessional/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Compiler/IBMClang-CXX-DetermineCompiler.cmake \
-	E:/SoftwareProfessional/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Compiler/Intel-DetermineCompiler.cmake \
-	E:/SoftwareProfessional/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake \
-	E:/SoftwareProfessional/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Compiler/LCC-CXX-DetermineCompiler.cmake \
 	E:/SoftwareProfessional/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Compiler/MSVC-CXX.cmake \
-	E:/SoftwareProfessional/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Compiler/MSVC-DetermineCompiler.cmake \
 	E:/SoftwareProfessional/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Compiler/MSVC.cmake \
-	E:/SoftwareProfessional/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Compiler/NVHPC-DetermineCompiler.cmake \
-	E:/SoftwareProfessional/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Compiler/NVIDIA-DetermineCompiler.cmake \
-	E:/SoftwareProfessional/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake \
-	E:/SoftwareProfessional/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Compiler/PGI-DetermineCompiler.cmake \
-	E:/SoftwareProfessional/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Compiler/PathScale-DetermineCompiler.cmake \
-	E:/SoftwareProfessional/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Compiler/SCO-DetermineCompiler.cmake \
-	E:/SoftwareProfessional/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake \
-	E:/SoftwareProfessional/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Compiler/TI-DetermineCompiler.cmake \
-	E:/SoftwareProfessional/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake \
-	E:/SoftwareProfessional/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Compiler/Watcom-DetermineCompiler.cmake \
-	E:/SoftwareProfessional/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Compiler/XL-CXX-DetermineCompiler.cmake \
-	E:/SoftwareProfessional/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake \
-	E:/SoftwareProfessional/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake \
 	E:/SoftwareProfessional/Qt/Tools/CMake_64/share/cmake-3.24/Modules/FindPackageHandleStandardArgs.cmake \
 	E:/SoftwareProfessional/Qt/Tools/CMake_64/share/cmake-3.24/Modules/FindPackageMessage.cmake \
 	E:/SoftwareProfessional/Qt/Tools/CMake_64/share/cmake-3.24/Modules/FindThreads.cmake \
@@ -351,8 +326,6 @@ trueCM_QT_autogen/timestamp: \
 	E:/SoftwareProfessional/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Internal/CheckCompilerFlag.cmake \
 	E:/SoftwareProfessional/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Internal/CheckFlagCommonConfig.cmake \
 	E:/SoftwareProfessional/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Internal/CheckSourceCompiles.cmake \
-	E:/SoftwareProfessional/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Internal/FeatureTesting.cmake \
-	E:/SoftwareProfessional/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Platform/Windows-Determine-CXX.cmake \
 	E:/SoftwareProfessional/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Platform/Windows-MSVC-CXX.cmake \
 	E:/SoftwareProfessional/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Platform/Windows-MSVC.cmake \
 	E:/SoftwareProfessional/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Platform/Windows.cmake \

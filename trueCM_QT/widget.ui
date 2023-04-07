@@ -13,82 +13,158 @@
   <property name="windowTitle">
    <string>计算力学求解器</string>
   </property>
-  <widget class="QTabWidget" name="tabWidget">
+  <widget class="QWidget" name="layoutWidget">
    <property name="geometry">
     <rect>
-     <x>0</x>
-     <y>0</y>
-     <width>221</width>
-     <height>421</height>
+     <x>1</x>
+     <y>1</y>
+     <width>701</width>
+     <height>531</height>
     </rect>
    </property>
-   <property name="currentIndex">
-    <number>0</number>
-   </property>
-   <widget class="QWidget" name="tab">
-    <attribute name="title">
-     <string>几何</string>
-    </attribute>
-   </widget>
-   <widget class="QWidget" name="tab_2">
-    <attribute name="title">
-     <string>材料</string>
-    </attribute>
-   </widget>
-   <widget class="QWidget" name="tab_3">
-    <attribute name="title">
-     <string>网格</string>
-    </attribute>
-   </widget>
-   <widget class="QWidget" name="tab_4">
-    <attribute name="title">
-     <string>约束</string>
-    </attribute>
-   </widget>
-   <widget class="QWidget" name="tab_5">
-    <attribute name="title">
-     <string>计算</string>
-    </attribute>
-   </widget>
-   <widget class="QWidget" name="tab_6">
-    <attribute name="title">
-     <string>云图</string>
-    </attribute>
-   </widget>
-  </widget>
-  <widget class="MyGraphicsView" name="graphicsView">
-   <property name="geometry">
-    <rect>
-     <x>230</x>
-     <y>10</y>
-     <width>461</width>
-     <height>411</height>
-    </rect>
-   </property>
-  </widget>
-  <widget class="MouseDockWidget" name="dockWidget">
-   <property name="geometry">
-    <rect>
-     <x>0</x>
-     <y>420</y>
-     <width>221</width>
-     <height>101</height>
-    </rect>
-   </property>
-   <property name="windowTitle">
-    <string>MouseTracker</string>
-   </property>
-   <widget class="QWidget" name="dockWidgetContents"/>
-  </widget>
-  <widget class="QTextEdit" name="textEdit">
-   <property name="geometry">
-    <rect>
-     <x>230</x>
-     <y>420</y>
-     <width>461</width>
-     <height>101</height>
-    </rect>
-   </property>
+   <layout class="QVBoxLayout" name="verticalLayout" stretch="4,1">
+    <item>
+     <layout class="QHBoxLayout" name="horizontalLayout" stretch="2,3">
+      <item>
+       <widget class="QTabWidget" name="tabWidget">
+        <property name="sizePolicy">
+         <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+          <horstretch>0</horstretch>
+          <verstretch>0</verstretch>
+         </sizepolicy>
+        </property>
+        <property name="currentIndex">
+         <number>0</number>
+        </property>
+        <property name="elideMode">
+         <enum>Qt::ElideRight</enum>
+        </property>
+        <widget class="QWidget" name="tab">
+         <attribute name="title">
+          <string>几何</string>
+         </attribute>
+        </widget>
+        <widget class="QWidget" name="tab_2">
+         <attribute name="title">
+          <string>材料</string>
+         </attribute>
+        </widget>
+        <widget class="QWidget" name="tab_3">
+         <attribute name="title">
+          <string>网格</string>
+         </attribute>
+        </widget>
+        <widget class="QWidget" name="tab_4">
+         <attribute name="title">
+          <string>约束</string>
+         </attribute>
+        </widget>
+        <widget class="QWidget" name="tab_5">
+         <attribute name="title">
+          <string>计算</string>
+         </attribute>
+        </widget>
+        <widget class="QWidget" name="tab_6">
+         <attribute name="title">
+          <string>云图</string>
+         </attribute>
+        </widget>
+       </widget>
+      </item>
+      <item>
+       <widget class="MyGraphicsView" name="graphicsView">
+        <property name="sizePolicy">
+         <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+          <horstretch>0</horstretch>
+          <verstretch>0</verstretch>
+         </sizepolicy>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </item>
+    <item>
+     <layout class="QHBoxLayout" name="horizontalLayout_2" stretch="2,5">
+      <item>
+       <widget class="QDockWidget" name="MouseTracker">
+        <property name="windowTitle">
+         <string>MouseTracker</string>
+        </property>
+        <widget class="QWidget" name="dockWidgetContents">
+         <widget class="QPushButton" name="pushButton">
+          <property name="geometry">
+           <rect>
+            <x>130</x>
+            <y>0</y>
+            <width>61</width>
+            <height>71</height>
+           </rect>
+          </property>
+          <property name="text">
+           <string>Set</string>
+          </property>
+         </widget>
+         <widget class="QTextEdit" name="textEdit_2">
+          <property name="geometry">
+           <rect>
+            <x>50</x>
+            <y>10</y>
+            <width>71</width>
+            <height>21</height>
+           </rect>
+          </property>
+          <property name="verticalScrollBarPolicy">
+           <enum>Qt::ScrollBarAlwaysOff</enum>
+          </property>
+         </widget>
+         <widget class="QTextEdit" name="textEdit_3">
+          <property name="geometry">
+           <rect>
+            <x>50</x>
+            <y>40</y>
+            <width>71</width>
+            <height>21</height>
+           </rect>
+          </property>
+          <property name="verticalScrollBarPolicy">
+           <enum>Qt::ScrollBarAlwaysOff</enum>
+          </property>
+         </widget>
+         <widget class="QLabel" name="label">
+          <property name="geometry">
+           <rect>
+            <x>20</x>
+            <y>10</y>
+            <width>21</width>
+            <height>21</height>
+           </rect>
+          </property>
+          <property name="text">
+           <string>X:</string>
+          </property>
+         </widget>
+         <widget class="QLabel" name="label_2">
+          <property name="geometry">
+           <rect>
+            <x>20</x>
+            <y>40</y>
+            <width>21</width>
+            <height>21</height>
+           </rect>
+          </property>
+          <property name="text">
+           <string>Y:</string>
+          </property>
+         </widget>
+        </widget>
+       </widget>
+      </item>
+      <item>
+       <widget class="QTextEdit" name="textEdit"/>
+      </item>
+     </layout>
+    </item>
+   </layout>
   </widget>
  </widget>
  <customwidgets>
@@ -96,12 +172,6 @@
    <class>MyGraphicsView</class>
    <extends>QGraphicsView</extends>
    <header>mygraphicsview.h</header>
-  </customwidget>
-  <customwidget>
-   <class>MouseDockWidget</class>
-   <extends>QDockWidget</extends>
-   <header>mousedockwidget.h</header>
-   <container>1</container>
   </customwidget>
  </customwidgets>
  <resources/>

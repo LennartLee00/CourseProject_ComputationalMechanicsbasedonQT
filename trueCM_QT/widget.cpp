@@ -7,7 +7,7 @@ Widget::Widget(QWidget *parent)
 {
     ui->setupUi(this);
     scene = new QGraphicsScene(this);
-    scene->setSceneRect(180,10,450,340);
+    scene->setSceneRect(282,1,400,400);
     ui->graphicsView->setScene(scene);
     ui->graphicsView->show();
 }

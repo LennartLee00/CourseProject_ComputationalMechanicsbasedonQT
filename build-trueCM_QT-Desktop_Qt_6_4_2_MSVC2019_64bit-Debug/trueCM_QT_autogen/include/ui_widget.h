@@ -11,34 +11,58 @@
 
 #include <QtCore/QVariant>
 #include <QtWidgets/QApplication>
-#include <QtWidgets/QGroupBox>
+#include <QtWidgets/QDockWidget>
+#include <QtWidgets/QHBoxLayout>
+#include <QtWidgets/QPushButton>
 #include <QtWidgets/QTabWidget>
 #include <QtWidgets/QTextEdit>
+#include <QtWidgets/QVBoxLayout>
 #include <QtWidgets/QWidget>
+#include "mygraphicsview.h"
 
 QT_BEGIN_NAMESPACE
 
 class Ui_Widget
 {
 public:
+    QWidget *widget;
+    QVBoxLayout *verticalLayout;
+    QHBoxLayout *horizontalLayout;
     QTabWidget *tabWidget;
     QWidget *tab;
     QWidget *tab_2;
     QWidget *tab_3;
     QWidget *tab_4;
     QWidget *tab_5;
+    QWidget *tab_6;
+    MyGraphicsView *graphicsView;
+    QHBoxLayout *horizontalLayout_2;
+    QDockWidget *dockWidget;
+    QWidget *dockWidgetContents;
+    QPushButton *pushButton;
     QTextEdit *textEdit;
-    QGroupBox *groupBox;
-    QWidget *widget;
 
     void setupUi(QWidget *Widget)
     {
         if (Widget->objectName().isEmpty())
             Widget->setObjectName("Widget");
-        Widget->resize(645, 431);
-        tabWidget = new QTabWidget(Widget);
+        Widget->resize(701, 525);
+        widget = new QWidget(Widget);
+        widget->setObjectName("widget");
+        widget->setGeometry(QRect(1, 1, 701, 531));
+        verticalLayout = new QVBoxLayout(widget);
+        verticalLayout->setObjectName("verticalLayout");
+        verticalLayout->setContentsMargins(0, 0, 0, 0);
+        horizontalLayout = new QHBoxLayout();
+        horizontalLayout->setObjectName("horizontalLayout");
+        tabWidget = new QTabWidget(widget);
         tabWidget->setObjectName("tabWidget");
-        tabWidget->setGeometry(QRect(0, 0, 191, 381));
+        QSizePolicy sizePolicy(QSizePolicy::Expanding, QSizePolicy::Expanding);
+        sizePolicy.setHorizontalStretch(0);
+        sizePolicy.setVerticalStretch(0);
+        sizePolicy.setHeightForWidth(tabWidget->sizePolicy().hasHeightForWidth());
+        tabWidget->setSizePolicy(sizePolicy);
+        tabWidget->setElideMode(Qt::ElideRight);
         tab = new QWidget();
         tab->setObjectName("tab");
         tabWidget->addTab(tab, QString());
@@ -54,17 +78,54 @@ public:
         tab_5 = new QWidget();
         tab_5->setObjectName("tab_5");
         tabWidget->addTab(tab_5, QString());
-        textEdit = new QTextEdit(Widget);
+        tab_6 = new QWidget();
+        tab_6->setObjectName("tab_6");
+        tabWidget->addTab(tab_6, QString());
+
+        horizontalLayout->addWidget(tabWidget);
+
+        graphicsView = new MyGraphicsView(widget);
+        graphicsView->setObjectName("graphicsView");
+        sizePolicy.setHeightForWidth(graphicsView->sizePolicy().hasHeightForWidth());
+        graphicsView->setSizePolicy(sizePolicy);
+
+        horizontalLayout->addWidget(graphicsView);
+
+        horizontalLayout->setStretch(0, 2);
+        horizontalLayout->setStretch(1, 3);
+
+        verticalLayout->addLayout(horizontalLayout);
+
+        horizontalLayout_2 = new QHBoxLayout();
+        horizontalLayout_2->setObjectName("horizontalLayout_2");
+        dockWidget = new QDockWidget(widget);
+        dockWidget->setObjectName("dockWidget");
+        dockWidgetContents = new QWidget();
+        dockWidgetContents->setObjectName("dockWidgetContents");
+        pushButton = new QPushButton(dockWidgetContents);
+        pushButton->setObjectName("pushButton");
+        pushButton->setGeometry(QRect(20, 10, 80, 18));
+        dockWidget->setWidget(dockWidgetContents);
+
+        horizontalLayout_2->addWidget(dockWidget);
+
+        textEdit = new QTextEdit(widget);
         textEdit->setObjectName("textEdit");
-        textEdit->setGeometry(QRect(0, 380, 651, 51));
-        groupBox = new QGroupBox(Widget);
-        groupBox->setObjectName("groupBox");
-        groupBox->setGeometry(QRect(190, 0, 451, 381));
-        widget = new QWidget(groupBox);
-        widget->setObjectName("widget");
-        widget->setGeometry(QRect(0, 10, 451, 371));
+
+        horizontalLayout_2->addWidget(textEdit);
+
+        horizontalLayout_2->setStretch(0, 2);
+        horizontalLayout_2->setStretch(1, 5);
+
+        verticalLayout->addLayout(horizontalLayout_2);
+
+        verticalLayout->setStretch(0, 4);
+        verticalLayout->setStretch(1, 1);
 
         retranslateUi(Widget);
+
+        tabWidget->setCurrentIndex(0);
+
 
         QMetaObject::connectSlotsByName(Widget);
     } // setupUi
@@ -72,12 +133,14 @@ public:
     void retranslateUi(QWidget *Widget)
     {
         Widget->setWindowTitle(QCoreApplication::translate("Widget", "\350\256\241\347\256\227\345\212\233\345\255\246\346\261\202\350\247\243\345\231\250", nullptr));
-        tabWidget->setTabText(tabWidget->indexOf(tab), QCoreApplication::translate("Widget", "Tab 1", nullptr));
-        tabWidget->setTabText(tabWidget->indexOf(tab_2), QCoreApplication::translate("Widget", "Tab 2", nullptr));
-        tabWidget->setTabText(tabWidget->indexOf(tab_3), QCoreApplication::translate("Widget", "\351\241\265", nullptr));
-        tabWidget->setTabText(tabWidget->indexOf(tab_4), QCoreApplication::translate("Widget", "\351\241\265", nullptr));
-        tabWidget->setTabText(tabWidget->indexOf(tab_5), QCoreApplication::translate("Widget", "\351\241\265", nullptr));
-        groupBox->setTitle(QCoreApplication::translate("Widget", "GroupBox", nullptr));
+        tabWidget->setTabText(tabWidget->indexOf(tab), QCoreApplication::translate("Widget", "\345\207\240\344\275\225", nullptr));
+        tabWidget->setTabText(tabWidget->indexOf(tab_2), QCoreApplication::translate("Widget", "\346\235\220\346\226\231", nullptr));
+        tabWidget->setTabText(tabWidget->indexOf(tab_3), QCoreApplication::translate("Widget", "\347\275\221\346\240\274", nullptr));
+        tabWidget->setTabText(tabWidget->indexOf(tab_4), QCoreApplication::translate("Widget", "\347\272\246\346\235\237", nullptr));
+        tabWidget->setTabText(tabWidget->indexOf(tab_5), QCoreApplication::translate("Widget", "\350\256\241\347\256\227", nullptr));
+        tabWidget->setTabText(tabWidget->indexOf(tab_6), QCoreApplication::translate("Widget", "\344\272\221\345\233\276", nullptr));
+        dockWidget->setWindowTitle(QCoreApplication::translate("Widget", "MouseTracker", nullptr));
+        pushButton->setText(QCoreApplication::translate("Widget", "PushButton", nullptr));
     } // retranslateUi
 
 };

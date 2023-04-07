@@ -92,20 +92,29 @@ E:/SoftwareProfessional/Code/GitCode/trueCM/CourseProject_ComputationalMechanics
   E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qimage.h \
   E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qkeysequence.h \
   E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qpaintdevice.h \
+  E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qpainter.h \
   E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qpalette.h \
+  E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qpen.h \
   E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qpixelformat.h \
   E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qpixmap.h \
   E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qpolygon.h \
   E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qregion.h \
   E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qrgb.h \
   E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qrgba64.h \
+  E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qtextoption.h \
   E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qtgui-config.h \
   E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qtguiexports.h \
   E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qtguiglobal.h \
   E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qtransform.h \
   E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qwindowdefs.h \
   E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qwindowdefs_win.h \
+  E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtWidgets/QGraphicsView \
   E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtWidgets/QWidget \
+  E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtWidgets/qabstractscrollarea.h \
+  E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtWidgets/qframe.h \
+  E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtWidgets/qgraphicsscene.h \
+  E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtWidgets/qgraphicsview.h \
+  E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtWidgets/qscrollarea.h \
   E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtWidgets/qsizepolicy.h \
   E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtWidgets/qtwidgets-config.h \
   E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtWidgets/qtwidgetsexports.h \
