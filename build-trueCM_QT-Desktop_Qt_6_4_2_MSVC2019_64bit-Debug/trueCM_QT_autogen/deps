@@ -34,9 +34,12 @@ trueCM_QT_autogen/timestamp: \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qcontainerinfo.h \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qcontainertools_impl.h \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qcontiguouscache.h \
+	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qcoreapplication.h \
+	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qcoreapplication_platform.h \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qcoreevent.h \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qdatastream.h \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qdebug.h \
+	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qeventloop.h \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qflags.h \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qforeach.h \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qglobal.h \
@@ -49,6 +52,7 @@ trueCM_QT_autogen/timestamp: \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qiterator.h \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qline.h \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qlist.h \
+	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qlocale.h \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qlogging.h \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qmap.h \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qmargins.h \
@@ -111,9 +115,12 @@ trueCM_QT_autogen/timestamp: \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qfont.h \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qfontinfo.h \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qfontmetrics.h \
+	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qguiapplication.h \
+	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qguiapplication_platform.h \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qicon.h \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qimage.h \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qinputdevice.h \
+	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qinputmethod.h \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qkeysequence.h \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qpaintdevice.h \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qpainter.h \
@@ -128,6 +135,9 @@ trueCM_QT_autogen/timestamp: \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qrgb.h \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qrgba64.h \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qscreen.h \
+	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qtextcursor.h \
+	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qtextdocument.h \
+	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qtextformat.h \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qtextoption.h \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qtgui-config.h \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qtguiexports.h \
@@ -137,16 +147,20 @@ trueCM_QT_autogen/timestamp: \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qvectornd.h \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qwindowdefs.h \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qwindowdefs_win.h \
+	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtWidgets/QApplication \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtWidgets/QGraphicsRectItem \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtWidgets/QGraphicsView \
+	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtWidgets/QTextEdit \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtWidgets/QWidget \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtWidgets/qabstractscrollarea.h \
+	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtWidgets/qapplication.h \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtWidgets/qframe.h \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtWidgets/qgraphicsitem.h \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtWidgets/qgraphicsscene.h \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtWidgets/qgraphicsview.h \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtWidgets/qscrollarea.h \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtWidgets/qsizepolicy.h \
+	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtWidgets/qtextedit.h \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtWidgets/qtwidgets-config.h \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtWidgets/qtwidgetsexports.h \
 	E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtWidgets/qtwidgetsglobal.h \

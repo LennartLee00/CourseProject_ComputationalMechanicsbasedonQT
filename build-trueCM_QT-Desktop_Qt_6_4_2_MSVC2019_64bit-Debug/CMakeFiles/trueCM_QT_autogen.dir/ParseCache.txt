@@ -28,6 +28,165 @@ E:/SoftwareProfessional/Code/GitCode/trueCM/CourseProject_ComputationalMechanics
  mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qcontainerinfo.h
  mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qcontainertools_impl.h
  mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qcontiguouscache.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qcoreapplication.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qcoreapplication_platform.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qcoreevent.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qdatastream.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qdebug.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qeventloop.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qflags.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qforeach.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qglobal.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qglobalstatic.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qhash.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qhashfunctions.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qiodevice.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qiodevicebase.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qiterable.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qiterator.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qline.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qlist.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qlocale.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qlogging.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qmap.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qmargins.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qmath.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qmetacontainer.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qmetatype.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qnamespace.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qnativeinterface.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qnumeric.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qobject.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qobject_impl.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qobjectdefs.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qobjectdefs_impl.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qpair.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qpoint.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qpointer.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qprocessordetection.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qrect.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qrefcount.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qscopedpointer.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qscopeguard.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qset.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qshareddata.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qshareddata_impl.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qsharedpointer.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qsharedpointer_impl.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qsize.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qstring.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qstringalgorithms.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qstringconverter_base.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qstringfwd.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qstringlist.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qstringliteral.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qstringmatcher.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qstringtokenizer.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qstringview.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qsysinfo.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qsystemdetection.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qtaggedpointer.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qtconfigmacros.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qtcore-config.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qtcoreexports.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qtextstream.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qtmetamacros.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qtypeinfo.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qurl.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qutf8stringview.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qvariant.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qvarlengtharray.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qversiontagging.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/QMouseEvent
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/QTransform
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qaction.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qbitmap.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qbrush.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qcolor.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qcursor.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qevent.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qeventpoint.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qfont.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qfontinfo.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qfontmetrics.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qguiapplication.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qguiapplication_platform.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qicon.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qimage.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qinputdevice.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qinputmethod.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qkeysequence.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qpaintdevice.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qpainter.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qpainterpath.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qpalette.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qpen.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qpixelformat.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qpixmap.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qpointingdevice.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qpolygon.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qregion.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qrgb.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qrgba64.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qscreen.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qtextcursor.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qtextdocument.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qtextformat.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qtextoption.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qtgui-config.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qtguiexports.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qtguiglobal.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qtransform.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qvector2d.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qvectornd.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qwindowdefs.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qwindowdefs_win.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtWidgets/QApplication
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtWidgets/QGraphicsRectItem
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtWidgets/QGraphicsView
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtWidgets/QTextEdit
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtWidgets/qabstractscrollarea.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtWidgets/qapplication.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtWidgets/qframe.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtWidgets/qgraphicsitem.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtWidgets/qgraphicsscene.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtWidgets/qgraphicsview.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtWidgets/qscrollarea.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtWidgets/qsizepolicy.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtWidgets/qtextedit.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtWidgets/qtwidgets-config.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtWidgets/qtwidgetsexports.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtWidgets/qtwidgetsglobal.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtWidgets/qwidget.h
+E:/SoftwareProfessional/Code/GitCode/trueCM/CourseProject_ComputationalMechanicsbasedonQT/trueCM_QT/widget.h
+ mmc:Q_OBJECT
+ mdp:E:/SoftwareProfessional/Code/GitCode/trueCM/CourseProject_ComputationalMechanicsbasedonQT/trueCM_QT/widget.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/QList
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/QObject
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/QRect
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/QSize
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/QSizeF
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qalgorithms.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qanystringview.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qarraydata.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qarraydataops.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qarraydatapointer.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qatomic.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qbasicatomic.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qbindingstorage.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qbytearray.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qbytearrayalgorithms.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qbytearraylist.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qbytearrayview.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qchar.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qcompare.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qcompare_impl.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qcompilerdetection.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qconfig.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qcontainerfwd.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qcontainerinfo.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qcontainertools_impl.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qcontiguouscache.h
  mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qcoreevent.h
  mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qdatastream.h
  mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qdebug.h
@@ -111,7 +270,6 @@ E:/SoftwareProfessional/Code/GitCode/trueCM/CourseProject_ComputationalMechanics
  mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qkeysequence.h
  mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qpaintdevice.h
  mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qpainter.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qpainterpath.h
  mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qpalette.h
  mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qpen.h
  mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qpixelformat.h
@@ -122,6 +280,9 @@ E:/SoftwareProfessional/Code/GitCode/trueCM/CourseProject_ComputationalMechanics
  mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qrgb.h
  mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qrgba64.h
  mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qscreen.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qtextcursor.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qtextdocument.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qtextformat.h
  mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qtextoption.h
  mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qtgui-config.h
  mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qtguiexports.h
@@ -131,132 +292,8 @@ E:/SoftwareProfessional/Code/GitCode/trueCM/CourseProject_ComputationalMechanics
  mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qvectornd.h
  mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qwindowdefs.h
  mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qwindowdefs_win.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtWidgets/QGraphicsRectItem
  mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtWidgets/QGraphicsView
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtWidgets/qabstractscrollarea.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtWidgets/qframe.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtWidgets/qgraphicsitem.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtWidgets/qgraphicsscene.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtWidgets/qgraphicsview.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtWidgets/qscrollarea.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtWidgets/qsizepolicy.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtWidgets/qtwidgets-config.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtWidgets/qtwidgetsexports.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtWidgets/qtwidgetsglobal.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtWidgets/qwidget.h
-E:/SoftwareProfessional/Code/GitCode/trueCM/CourseProject_ComputationalMechanicsbasedonQT/trueCM_QT/widget.h
- mmc:Q_OBJECT
- mdp:E:/SoftwareProfessional/Code/GitCode/trueCM/CourseProject_ComputationalMechanicsbasedonQT/trueCM_QT/widget.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qalgorithms.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qanystringview.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qarraydata.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qarraydataops.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qarraydatapointer.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qatomic.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qbasicatomic.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qbindingstorage.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qbytearray.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qbytearrayalgorithms.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qbytearraylist.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qbytearrayview.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qchar.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qcompare.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qcompare_impl.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qcompilerdetection.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qconfig.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qcontainerfwd.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qcontainerinfo.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qcontainertools_impl.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qcontiguouscache.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qdatastream.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qdebug.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qflags.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qforeach.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qglobal.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qglobalstatic.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qhash.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qhashfunctions.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qiodevicebase.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qiterable.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qiterator.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qline.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qlist.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qlogging.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qmap.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qmargins.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qmath.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qmetacontainer.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qmetatype.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qnamespace.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qnumeric.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qobject.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qobject_impl.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qobjectdefs.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qobjectdefs_impl.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qpair.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qpoint.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qprocessordetection.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qrect.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qrefcount.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qscopedpointer.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qscopeguard.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qset.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qshareddata.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qshareddata_impl.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qsharedpointer.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qsharedpointer_impl.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qsize.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qstring.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qstringalgorithms.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qstringconverter_base.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qstringfwd.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qstringlist.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qstringliteral.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qstringmatcher.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qstringtokenizer.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qstringview.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qsysinfo.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qsystemdetection.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qtaggedpointer.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qtconfigmacros.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qtcore-config.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qtcoreexports.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qtextstream.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qtmetamacros.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qtypeinfo.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qutf8stringview.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qvariant.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qvarlengtharray.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtCore/qversiontagging.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qaction.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qbitmap.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qbrush.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qcolor.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qcursor.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qfont.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qfontinfo.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qfontmetrics.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qicon.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qimage.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qkeysequence.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qpaintdevice.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qpainter.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qpalette.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qpen.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qpixelformat.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qpixmap.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qpolygon.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qregion.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qrgb.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qrgba64.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qtextoption.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qtgui-config.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qtguiexports.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qtguiglobal.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qtransform.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qwindowdefs.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtGui/qwindowdefs_win.h
- mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtWidgets/QGraphicsView
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtWidgets/QTextEdit
  mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtWidgets/QWidget
  mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtWidgets/qabstractscrollarea.h
  mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtWidgets/qframe.h
@@ -264,6 +301,7 @@ E:/SoftwareProfessional/Code/GitCode/trueCM/CourseProject_ComputationalMechanics
  mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtWidgets/qgraphicsview.h
  mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtWidgets/qscrollarea.h
  mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtWidgets/qsizepolicy.h
+ mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtWidgets/qtextedit.h
  mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtWidgets/qtwidgets-config.h
  mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtWidgets/qtwidgetsexports.h
  mdp:E:/SoftwareProfessional/Qt/6.4.2/msvc2019_64/include/QtWidgets/qtwidgetsglobal.h

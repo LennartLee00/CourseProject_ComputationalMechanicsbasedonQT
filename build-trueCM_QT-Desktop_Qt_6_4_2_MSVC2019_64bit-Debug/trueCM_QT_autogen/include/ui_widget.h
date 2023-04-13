@@ -13,6 +13,7 @@
 #include <QtWidgets/QApplication>
 #include <QtWidgets/QDockWidget>
 #include <QtWidgets/QHBoxLayout>
+#include <QtWidgets/QLabel>
 #include <QtWidgets/QPushButton>
 #include <QtWidgets/QTabWidget>
 #include <QtWidgets/QTextEdit>
@@ -25,7 +26,7 @@ QT_BEGIN_NAMESPACE
 class Ui_Widget
 {
 public:
-    QWidget *widget;
+    QWidget *layoutWidget;
     QVBoxLayout *verticalLayout;
     QHBoxLayout *horizontalLayout;
     QTabWidget *tabWidget;
@@ -37,9 +38,13 @@ public:
     QWidget *tab_6;
     MyGraphicsView *graphicsView;
     QHBoxLayout *horizontalLayout_2;
-    QDockWidget *dockWidget;
+    QDockWidget *MouseTracker;
     QWidget *dockWidgetContents;
     QPushButton *pushButton;
+    QTextEdit *MouseX;
+    QTextEdit *MouseY;
+    QLabel *label;
+    QLabel *label_2;
     QTextEdit *textEdit;
 
     void setupUi(QWidget *Widget)
@@ -47,15 +52,17 @@ public:
         if (Widget->objectName().isEmpty())
             Widget->setObjectName("Widget");
         Widget->resize(701, 525);
-        widget = new QWidget(Widget);
-        widget->setObjectName("widget");
-        widget->setGeometry(QRect(1, 1, 701, 531));
-        verticalLayout = new QVBoxLayout(widget);
+        Widget->setMinimumSize(QSize(701, 525));
+        Widget->setMaximumSize(QSize(701, 525));
+        layoutWidget = new QWidget(Widget);
+        layoutWidget->setObjectName("layoutWidget");
+        layoutWidget->setGeometry(QRect(1, 1, 701, 531));
+        verticalLayout = new QVBoxLayout(layoutWidget);
         verticalLayout->setObjectName("verticalLayout");
         verticalLayout->setContentsMargins(0, 0, 0, 0);
         horizontalLayout = new QHBoxLayout();
         horizontalLayout->setObjectName("horizontalLayout");
-        tabWidget = new QTabWidget(widget);
+        tabWidget = new QTabWidget(layoutWidget);
         tabWidget->setObjectName("tabWidget");
         QSizePolicy sizePolicy(QSizePolicy::Expanding, QSizePolicy::Expanding);
         sizePolicy.setHorizontalStretch(0);
@@ -63,6 +70,7 @@ public:
         sizePolicy.setHeightForWidth(tabWidget->sizePolicy().hasHeightForWidth());
         tabWidget->setSizePolicy(sizePolicy);
         tabWidget->setElideMode(Qt::ElideRight);
+        tabWidget->setUsesScrollButtons(false);
         tab = new QWidget();
         tab->setObjectName("tab");
         tabWidget->addTab(tab, QString());
@@ -84,32 +92,46 @@ public:
 
         horizontalLayout->addWidget(tabWidget);
 
-        graphicsView = new MyGraphicsView(widget);
+        graphicsView = new MyGraphicsView(layoutWidget);
         graphicsView->setObjectName("graphicsView");
         sizePolicy.setHeightForWidth(graphicsView->sizePolicy().hasHeightForWidth());
         graphicsView->setSizePolicy(sizePolicy);
 
         horizontalLayout->addWidget(graphicsView);
 
-        horizontalLayout->setStretch(0, 2);
-        horizontalLayout->setStretch(1, 3);
+        horizontalLayout->setStretch(0, 1);
+        horizontalLayout->setStretch(1, 2);
 
         verticalLayout->addLayout(horizontalLayout);
 
         horizontalLayout_2 = new QHBoxLayout();
         horizontalLayout_2->setObjectName("horizontalLayout_2");
-        dockWidget = new QDockWidget(widget);
-        dockWidget->setObjectName("dockWidget");
+        MouseTracker = new QDockWidget(layoutWidget);
+        MouseTracker->setObjectName("MouseTracker");
         dockWidgetContents = new QWidget();
         dockWidgetContents->setObjectName("dockWidgetContents");
         pushButton = new QPushButton(dockWidgetContents);
         pushButton->setObjectName("pushButton");
-        pushButton->setGeometry(QRect(20, 10, 80, 18));
-        dockWidget->setWidget(dockWidgetContents);
+        pushButton->setGeometry(QRect(130, 0, 61, 71));
+        MouseX = new QTextEdit(dockWidgetContents);
+        MouseX->setObjectName("MouseX");
+        MouseX->setGeometry(QRect(50, 10, 71, 21));
+        MouseX->setVerticalScrollBarPolicy(Qt::ScrollBarAlwaysOff);
+        MouseY = new QTextEdit(dockWidgetContents);
+        MouseY->setObjectName("MouseY");
+        MouseY->setGeometry(QRect(50, 40, 71, 21));
+        MouseY->setVerticalScrollBarPolicy(Qt::ScrollBarAlwaysOff);
+        label = new QLabel(dockWidgetContents);
+        label->setObjectName("label");
+        label->setGeometry(QRect(20, 10, 21, 21));
+        label_2 = new QLabel(dockWidgetContents);
+        label_2->setObjectName("label_2");
+        label_2->setGeometry(QRect(20, 40, 21, 21));
+        MouseTracker->setWidget(dockWidgetContents);
 
-        horizontalLayout_2->addWidget(dockWidget);
+        horizontalLayout_2->addWidget(MouseTracker);
 
-        textEdit = new QTextEdit(widget);
+        textEdit = new QTextEdit(layoutWidget);
         textEdit->setObjectName("textEdit");
 
         horizontalLayout_2->addWidget(textEdit);
@@ -139,8 +161,10 @@ public:
         tabWidget->setTabText(tabWidget->indexOf(tab_4), QCoreApplication::translate("Widget", "\347\272\246\346\235\237", nullptr));
         tabWidget->setTabText(tabWidget->indexOf(tab_5), QCoreApplication::translate("Widget", "\350\256\241\347\256\227", nullptr));
         tabWidget->setTabText(tabWidget->indexOf(tab_6), QCoreApplication::translate("Widget", "\344\272\221\345\233\276", nullptr));
-        dockWidget->setWindowTitle(QCoreApplication::translate("Widget", "MouseTracker", nullptr));
-        pushButton->setText(QCoreApplication::translate("Widget", "PushButton", nullptr));
+        MouseTracker->setWindowTitle(QCoreApplication::translate("Widget", "MouseTracker", nullptr));
+        pushButton->setText(QCoreApplication::translate("Widget", "Set", nullptr));
+        label->setText(QCoreApplication::translate("Widget", "X:", nullptr));
+        label_2->setText(QCoreApplication::translate("Widget", "Y:", nullptr));
     } // retranslateUi
 
 };
